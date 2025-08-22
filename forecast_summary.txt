@@ -1,0 +1,17 @@
+Airline Revenue Forecast Summary
+================================
+Rows in dataset: 120
+Quarters prepared: 24
+ARIMA Model: Series: ts_series 
+
+Forecast Accuracy (in-sample):
+  RMSE: 50.22
+  MAE : 39.92
+  MAPE: 2.94%
+
+Next 4 Quarter Forecasts:
+2025-Qq: 1600.27 (95% CI: 1497.47 - 1703.07)
+2025-Qq: 1621.89 (95% CI: 1476.5 - 1767.27)
+2025-Qq: 1643.5 (95% CI: 1465.45 - 1821.56)
+2025-Qq: 1665.12 (95% CI: 1459.52 - 1870.72)
+
